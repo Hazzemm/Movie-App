@@ -1,0 +1,7 @@
+GET/movies/
+POST/movies/
+GET/movies/
+PUT/movies/650006792b638b9609b7ab79
+GET/movies/
+DELETE/movies/64fd41af10181abceb568c4e
+GET/movies/
